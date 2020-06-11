@@ -5,7 +5,7 @@ This project presents a Visual Quality Inspection system that detects the defect
 
 It's a part of our university projects with my Teammates:
 * TAGHOUTI Oumaima
-* BEN HAJ SLAMA
-* Manel ELJ Sabri
+* BEN HAJ SLAMA Manel
+* ELJ Sabri
 
-demonstration tests :  https://www.youtube.com/watch?v=NXm8iuDB9wk&
+Demonstration tests :  https://www.youtube.com/watch?v=NXm8iuDB9wk&
